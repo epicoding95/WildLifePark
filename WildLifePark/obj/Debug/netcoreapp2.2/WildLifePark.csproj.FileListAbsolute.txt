@@ -1,0 +1,14 @@
+/Users/Guest/Desktop/WildLifePark/WildLifePark/bin/Debug/netcoreapp2.2/WildLifePark.deps.json
+/Users/Guest/Desktop/WildLifePark/WildLifePark/bin/Debug/netcoreapp2.2/WildLifePark.runtimeconfig.json
+/Users/Guest/Desktop/WildLifePark/WildLifePark/bin/Debug/netcoreapp2.2/WildLifePark.runtimeconfig.dev.json
+/Users/Guest/Desktop/WildLifePark/WildLifePark/bin/Debug/netcoreapp2.2/WildLifePark.dll
+/Users/Guest/Desktop/WildLifePark/WildLifePark/bin/Debug/netcoreapp2.2/WildLifePark.pdb
+/Users/Guest/Desktop/WildLifePark/WildLifePark/obj/Debug/netcoreapp2.2/WildLifePark.csprojAssemblyReference.cache
+/Users/Guest/Desktop/WildLifePark/WildLifePark/obj/Debug/netcoreapp2.2/WildLifePark.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/WildLifePark/WildLifePark/obj/Debug/netcoreapp2.2/WildLifePark.RazorAssemblyInfo.cache
+/Users/Guest/Desktop/WildLifePark/WildLifePark/obj/Debug/netcoreapp2.2/WildLifePark.RazorAssemblyInfo.cs
+/Users/Guest/Desktop/WildLifePark/WildLifePark/obj/Debug/netcoreapp2.2/WildLifePark.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/WildLifePark/WildLifePark/obj/Debug/netcoreapp2.2/WildLifePark.AssemblyInfo.cs
+/Users/Guest/Desktop/WildLifePark/WildLifePark/obj/Debug/netcoreapp2.2/WildLifePark.RazorTargetAssemblyInfo.cache
+/Users/Guest/Desktop/WildLifePark/WildLifePark/obj/Debug/netcoreapp2.2/WildLifePark.dll
+/Users/Guest/Desktop/WildLifePark/WildLifePark/obj/Debug/netcoreapp2.2/WildLifePark.pdb
